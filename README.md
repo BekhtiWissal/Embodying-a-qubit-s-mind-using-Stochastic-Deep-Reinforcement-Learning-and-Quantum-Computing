@@ -5,4 +5,5 @@ I will add the abstract of the paper for interested readers: The Broglie's duali
 
 You will find notebooks for both the reinforcement learning and the deep learning part, in addition to the data of the qubits spins that we got using IBM Quantum Lab. 
 
+
 ![maxresdefault](https://github.com/BekhtiWissal/Embodying-a-qubit-s-mind-using-Stochastic-Deep-Reinforcement-Learning-and-Quantum-Computing/assets/135755494/267a043b-cfb6-413a-a41d-be44f586d22c)
